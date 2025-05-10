@@ -1,12 +1,25 @@
-# React + Vite
+# SoftSell - Software Resale Startup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SoftSell is a fictional software resale startup. This project demonstrates the creation of a responsive, one-page marketing website that showcases the services provided by SoftSell. It includes features such as a hero section, step-by-step guide, customer testimonials, and a contact form.
 
-Currently, two official plugins are available:
+## Features Implemented:
+- **Hero Section**: Contains a headline, subheading, and call-to-action (CTA) button.
+- **How It Works Section**: Displays a 3-step process with icons.
+- **Why Choose Us Section**: Shows 4 key benefits with icons.
+- **Customer Testimonials**: Displays 2 dummy reviews from fictional customers.
+- **Contact Form**: A lead form with name, email, company, license type, and message fields.
+- **Responsive Design**: The website is mobile-friendly and adapts to different screen sizes.
+- **Light/Dark Mode**: The website supports both light and dark modes.
+- **Animations**: Animated transitions are added using **Framer Motion**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used:
+- **React.js**: The app is built with React for dynamic user interactions.
+- **Vite**: A build tool used for fast development and building the app.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Framer Motion**: For animating the UI elements.
+- **React Icons**: For adding icons in the "How It Works" and "Why Choose Us" sections.
 
-## Expanding the ESLint configuration
+## Deployment:
+- The website is hosted on **Vercel** for quick and easy deployment. You can access the live site at [live URL](https://your-vercel-url.com).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
