@@ -20,6 +20,6 @@ SoftSell is a fictional software resale startup. This project demonstrates the c
 - React Icons: For adding icons in the "How It Works" and "Why Choose Us" sections.
 
  Deployment:
-- The website is hosted on **netlify** for quick and easy deployment. You can access the live site at [live URL](https://your-vercel-url.com).
+- The website is hosted on **netlify** for quick and easy deployment. You can access the live site at (https://softsell-yjr2.netlify.app/).
 
 
